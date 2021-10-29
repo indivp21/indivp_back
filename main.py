@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from routers.indicadora_router import router as router_indicadora
 from routers.indicadorb_router import router as router_indicadorb
 from routers.indicadorc_router import router as router_indicadorc
-from routers.indicadorc_router import router as router_indicadord
+from routers.indicadord_router import router as router_indicadord
 from routers.user_router import router as router_user
 from routers.gerencia_router import router as router_gerencia
 
