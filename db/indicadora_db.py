@@ -210,7 +210,7 @@ database_indicadores = {
 							"formula":" ",
 							"calculo":"La información es generada por el monitoreo realizado en el mes sobre la VPN, la plataforma transaccional, ventanas programadas y incidencias presentadas.",
 							"comentario":"Información suministrada por el aliado Carvajal cierre Octubre: La información es generada por assenda red, el monitoreo realizado en el mes sobre la VPN, la plataforma transaccional, ventanas programadas y incidencias presentadas. No presentó afecta",
-							"ponderado":97,00,
+							"ponderado":97,
 							"lgreen":98,
 							"lyellow":"97.6",
 							"lred":97.6}),
