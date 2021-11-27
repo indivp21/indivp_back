@@ -207,7 +207,7 @@ database_indicadores = {
 							"gerencia":"Gerencia de Operación Bancaria",
 							"central": "Soporte operativo Corresponsales Bancarios",
 							"colorin":"3. Green",
-							"formula":,
+							"formula":" ",
 							"calculo":"La información es generada por el monitoreo realizado en el mes sobre la VPN, la plataforma transaccional, ventanas programadas y incidencias presentadas.",
 							"comentario":"Información suministrada por el aliado Carvajal cierre Octubre: La información es generada por assenda red, el monitoreo realizado en el mes sobre la VPN, la plataforma transaccional, ventanas programadas y incidencias presentadas. No presentó afecta",
 							"ponderado":97,00,
