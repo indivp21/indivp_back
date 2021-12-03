@@ -142,7 +142,7 @@ database_indicadores = {
 							"gerencia":"Gerencia de Operación Bancaria",
 							"central": "Central de Cuadre",
 							"colorin":"3. Green",
-							"formula":"Canales  a conciliar (oficinas, centros de canje, cajeros corresponsales propios, Carvajal, Efectivo clientes,centros de efectivo,AFC,impuestos, ACH, transferencias ya, mi pago amigo ) / canales  conciliados",
+							"formula":"Canales  a conciliar (oficinas, centros de canje, cajeros corresponsales propios, Carvajal, Efectivo clientes, centros de efectivo, AFC, impuestos, ACH, transferencias ya, mi pago amigo ) / canales  conciliados",
 							"calculo":"6,613 puntos conciliados 4,412 Ajustes aplicados",
 							"comentario":"Semana de 26 Noviembre al 02 Diciembre",
 							"ponderado":99.2,
