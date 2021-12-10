@@ -10,8 +10,8 @@ class GerInDB(BaseModel):
 database_gerencias = Dict[str, GerInDB]
 database_gerencias = {
 	"Gerencia2": GerInDB(**{"name":"Gerencia Servivio a Cliente",
-							"indigen":75.6,
-							"rango":"26/11/2021 al 02/12/2021"}),
+							"indigen":76.1,
+							"rango":"03/12/2021 al 09/12/2021"}),
 	"Gerencia1": GerInDB(**{"name":"Gerencia de Operación Bancaria",
 							"indigen":95.9,
 							"rango":"03/12/2021 al 09/12/2021"}),
