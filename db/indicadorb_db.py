@@ -53,7 +53,7 @@ database_indicadores = {
 							"colorin":"1. Red",
 							"formula":"(# de casos con vencimiento semana evaluada - prorrogados semana evaluada - vencidos semana evaluada)/# de casos con vencimiento semana evaluada /",
 							"calculo":"705 Casos por vencer // 04 casos vencidos // 14 casos prorrogados. Solucionadores 24 DAR y 19 áreas descentralizadas.",
-							"comentario":"Top 3 de la semana: 1. NM - Revisión comportamiento y/o condiciones del crédito. 2. NM - Habeas Data. 3. NM -Compra Tarjeta de Crédito No autorizada.",
+							"comentario":"Top 3 de la semana:1. NM - Revisión comportamiento y/o condiciones del crédito. 2. NM - Habeas Data. 3. NM -Compra Tarjeta de Crédito No autorizada.",
 							"ponderado":97.4,
 							"lgreen":98,
 							"lyellow":"N/A",
