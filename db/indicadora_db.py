@@ -78,7 +78,7 @@ database_indicadores = {
 							"central": "Central de Servicios Operativos",
 							"colorin":"3. Green",
 							"formula":"Lotes aplicados / Lotes recibidos",
-							"calculo":"Lotes aplicados: 29.901                                                                               Valor Total $419.604.108.367.07",
+							"calculo":"Lotes aplicados: 29.901 Valor Total $419.604.108.367.07",
 							"comentario":"Semana del 18 al 24 de febrero",
 							"ponderado":99.7,
 							"lgreen":100,
