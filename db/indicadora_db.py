@@ -78,7 +78,7 @@ database_indicadores = {
 							"central": "Central de Servicios Operativos",
 							"colorin":"1. Red",
 							"formula":"Lotes aplicados / Lotes recibidos",
-							"calculo":"",
+							"calculo":"Sin informacion",
 							"comentario":"Sin informacion",
 							"ponderado":99.6,
 							"lgreen":100,
