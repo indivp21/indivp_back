@@ -73,7 +73,7 @@ database_indicadores = {
 							"lred":97}),
 	"Indicador1": IndicadorInDB(**{"id_indicador": 1,
 							"name":"Transferencias Electrónicas. Calidad lotes  aplicados",
-							"porcentaje":,
+							"porcentaje":0,
 							"gerencia":"Gerencia de Operación Bancaria",
 							"central": "Central de Servicios Operativos",
 							"colorin":"1. Red",
