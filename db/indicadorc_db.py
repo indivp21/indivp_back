@@ -288,7 +288,7 @@ database_indicadores = {
 							"formula":"total garantías recibidas,correctas y atendidas a tiempo / total garantias entregadas y solicitadas",
 							"calculo":"El Indicador mensual  con corte Febrero  (pendiente de conciliar con Proveedores de Custodia ) Resultado  es el promedio del año  2022",
 							"comentario":"98,00%",
-							"ponderado":,
+							"ponderado":0,
 							"lgreen":99,
 							"lyellow":"100",
 							"lred":100}),
