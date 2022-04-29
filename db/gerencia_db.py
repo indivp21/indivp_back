@@ -10,14 +10,14 @@ class GerInDB(BaseModel):
 database_gerencias = Dict[str, GerInDB]
 database_gerencias = {
 	"Gerencia2": GerInDB(**{"name":"Gerencia Servivio a Cliente",
-							"indigen":77.3,
-							"rango":"13/04/2022 al 21/04/2022"}),
+							"indigen":76.6,
+							"rango":"22/04/2021 al 28/04/2021"}),
 	"Gerencia3": GerInDB(**{"name":"Gerencia Cartera Operativa",
-							"indigen":96.9,
-							"rango":"13/04/2022 al 21/04/2022"}),
+							"indigen":96.6,
+							"rango":"22/04/2021 al 28/04/2021"}),
 	"Gerencia1": GerInDB(**{"name":"Gerencia de Operación Bancaria",
-							"indigen":97.4,
-							"rango":"13/04/2022 al 21/04/2022"}),
+							"indigen":96.7,
+							"rango":"22/04/2021 al 28/04/2021"}),
 }
 
 def get_gerencia(gerencia: str):
