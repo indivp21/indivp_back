@@ -273,7 +273,7 @@ database_indicadores = {
 							"central": "Coordinación Cartera Administradas",
 							"colorin":"3. Green",
 							"formula":"1- el porcentaje de variación del día de la semana que mas variación se haya presentado",
-							"calculo":"1%-0.11%",
+							"calculo":"1 - 0.11%",
 							"comentario":"Sin informacion",
 							"ponderado":99.9,
 							"lgreen":99.5,

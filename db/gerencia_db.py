@@ -13,7 +13,7 @@ database_gerencias = {
 							"indigen":93.8,
 							"rango":"29/05/2022 al 05/05/2022"}),
 	"Gerencia2": GerInDB(**{"name":"Gerencia Servivio a Cliente",
-							"indigen":76.6,
+							"indigen":72.0,
 							"rango":"XX/XX/2021 al XX/XX/2021"}),
 	"Gerencia1": GerInDB(**{"name":"Gerencia de Operación Bancaria",
 							"indigen":97.3,
