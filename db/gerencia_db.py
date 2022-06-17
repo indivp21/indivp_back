@@ -14,10 +14,10 @@ database_gerencias = {
 							"rango":"27/05/2021 al 02/06/2021"}),
 	"Gerencia2": GerInDB(**{"name":"Gerencia Servicio a Cliente",
 							"indigen":72.4,
-							"rango":"10/06/2021 al 16/06/2021"}),
+							"rango":"10/06/2022 al 16/06/2022"}),
 	"Gerencia1": GerInDB(**{"name":"Gerencia de Operación Bancaria",
-							"indigen":97.3,
-							"rango":"XX/XX/2021 al XX/XX/2021"}),                        
+							"indigen":98.0,
+							"rango":"10/06/2022 al 16/06/2022"}),                  
 }
 
 def get_gerencia(gerencia: str):
