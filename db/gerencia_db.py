@@ -14,7 +14,7 @@ database_gerencias = {
 							"rango":"27/05/2022 al 02/06/2022"}),
 	"Gerencia2": GerInDB(**{"name":"Gerencia Servicio a Cliente",
 							"indigen":76.3,
-							"rango":"01/07/2022 al 07/07/2022"})
+							"rango":"01/07/2022 al 07/07/2022"}),
 	"Gerencia1": GerInDB(**{"name":"Gerencia de Operación Bancaria",
 							"indigen":96.7,
 							"rango":"01/07/2022 al 07/07/2022"}),             
