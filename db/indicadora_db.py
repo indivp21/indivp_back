@@ -229,7 +229,7 @@ database_indicadores = {
 							"lred":100}),
 	"Indicador6": IndicadorInDB(**{"id_indicador": 6,
 							"name":"",
-							"porcentaje":,
+							"porcentaje":92.9,
 							"gerencia":"Gerencia de Operación Bancaria",
 							"central": "",
 							"colorin":"3. Green",
