@@ -227,6 +227,19 @@ database_indicadores = {
 							"lgreen":100,
 							"lyellow":"N/A",
 							"lred":100}),
+		"Indicador6": IndicadorInDB(**{"id_indicador": 6,
+							"name":"Número total operaciones cumplidas/ operaciones a cumplir.",
+							"porcentaje":100,
+							"gerencia":"Gerencia de Operación Bancaria",
+							"central": "UAC Back Office",
+							"colorin":"3. Green",
+							"formula":"Número total operaciones cumplidas/ operaciones a cumplir.",
+							"calculo":"Se atendieron 609 operaciones por un valor total de $2.599.008.987.046.29",
+							"comentario":"Sin informacion",
+							"ponderado":100.0,
+							"lgreen":100,
+							"lyellow":"N/A",
+							"lred":100}),
 }
 
 def get_indicador(indicador: str):
